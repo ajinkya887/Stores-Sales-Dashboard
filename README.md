@@ -14,8 +14,13 @@ Identify the Key Performance Indicators (KPIs), design an intuitive and visually
 ### Data Analysis
 Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
 
+![Sales Dashboard](PHOTO-2024-04-12-15-15-11.jpg)
+
+
 ### Sales Forecasting
 Leverage historic data and apply time series analysis techniques to generate sales forecasts for the next 15 days.
+
+![Sales Forecasting](PHOTO-2024-04-12-15-14-56.jpg)
 
 ### Actionable Insights and Recommendations
 The end goal is to provide insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
